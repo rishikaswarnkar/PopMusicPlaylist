@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Autum playlist</string>
+    <string name="txtSplash">Autum Playlist</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="btnPaino">Play Pop Piano Key</string>
+    <string name="btnViolin">Play pop Violin</string>
+    <string name="btnFlute">Play the flute</string>
+</resources>
